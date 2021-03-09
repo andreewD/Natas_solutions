@@ -1,5 +1,7 @@
 # Natas 0
 
+Link : http://natas0.natas.labs.overthewire.org/
+
 Natas 0 screen :
 
 <img src="imgs/natas0.png" alt="Natas0 screnn">

@@ -1,5 +1,7 @@
 # Natas 3
 
+Link : http://natas3.natas.labs.overthewire.org/
+
 Natas 3 screen :
 
 <img src="imgs/natas3.png" alt="Natas3 screen">
@@ -13,7 +15,7 @@ Natas 3 source code :
 
 No more information leaks!! Not even Google will find it this time... 
 
-This frase is a reference to : robots.txt
+This phrase is a reference to : robots.txt
 
 Then go to :
 
