@@ -11,7 +11,7 @@ Natas 2 source code :
 <img src="imgs/url_natas2.png" alt="url Natas2">
 
 
-The web is including a img from /files directory
+The web is including a img from /files directory, enter to : http://natas2.natas.labs.overthewire.org/files/
 
 <img src="imgs/natas2_files.png" alt="natas2_files">
 
