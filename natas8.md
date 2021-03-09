@@ -4,11 +4,11 @@ Link : http://natas8.natas.labs.overthewire.org/
 
 Natas 8 screen :
 
-<img src="imgs/natas8.PNG" alt="Natas8 screnn">
+<img src="imgs/natas8.png" alt="Natas8 screnn">
 
 Natas 8 source code :
 
-<img src="imgs/url_natas8.PNG" alt="url Natas8">
+<img src="imgs/url_natas8.png" alt="url Natas8">
 
 ```php
 $encodedSecret = "3d3d516343746d4d6d6c315669563362";

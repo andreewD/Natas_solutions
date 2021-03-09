@@ -8,7 +8,7 @@ Natas 7 screen :
 
 Natas 7 source code :
 
-<img src="imgs/url_natas7.PNG" alt="url Natas7">
+<img src="imgs/url_natas7.png" alt="url Natas7">
 
 Hint: password for webuser natas8 is in /etc/natas_webpass/natas8
 
