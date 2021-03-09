@@ -18,4 +18,4 @@ curl --user natas4:Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ --referer http://natas5.nata
 <img src="imgs/natas5_pass.PNG" alt="Natas5 pass">
 
 
-So the password for Natas5 is : iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
+So the password for Natas 5 is : iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq

@@ -21,4 +21,4 @@ Here you can see a file called users.txt , the answer is inside it :
 
 <img src="imgs/natas2_users.png " alt="natas2 users">
 
-So the password for Natas3 is : sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
+So the password for Natas 3 is : sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14

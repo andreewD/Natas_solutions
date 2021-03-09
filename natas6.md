@@ -33,4 +33,4 @@ Now our secret is "FOEIUWGHFEEUHOFUOIU".
 <img src="imgs/natas6_sol.PNG" alt="sol">
 
 
-So the password for Natas7 is : 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
+So the password for Natas 7 is : 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9

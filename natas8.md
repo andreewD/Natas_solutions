@@ -30,4 +30,4 @@ From decodedSecret() we get $secret = oubWYf2kBq
 
 <img src="imgs/natas8_solution.PNG" alt="natas8 sol">
 
-So the password for Natas1 is : W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
+So the password for Natas 9 is : W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl

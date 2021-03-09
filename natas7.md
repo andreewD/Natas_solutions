@@ -17,4 +17,4 @@ http://natas7.natas.labs.overthewire.org/index.php?page=/etc/natas_webpass/natas
 ```
 <img src="imgs/natas7_sol.PNG" alt="natas7 sol">
 
-So the password for Natas2 is : DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
+So the password for Natas 8 is : DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe

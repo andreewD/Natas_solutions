@@ -14,4 +14,4 @@ Natas 1 source code :
 <img src="imgs/url_natas1.png" alt="url Natas1">
 
 
-So the password for Natas2 is : ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi
+So the password for Natas 2 is : ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi
