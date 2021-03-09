@@ -35,4 +35,4 @@ Finally you find the file users.txt where is located Natas 4 password
 
 <img src="imgs/natas3_pass.png" alt="pass">
 
-So the password for Natas1 is : Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
+So the password for Natas 4 is : Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
