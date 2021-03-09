@@ -26,11 +26,11 @@ The code is recieving a file from "includes/secret.inc", if we access to
 
 http://natas6.natas.labs.overthewire.org/includes/secret.inc 
 
-<img src="natas6_secret.PNG" alt="secret">
+<img src="imgs/natas6_secret.PNG" alt="secret">
 
 Now our secret is "FOEIUWGHFEEUHOFUOIU".
 
-<img src="natas6_sol.PNG" alt="sol">
+<img src="imgs/natas6_sol.PNG" alt="sol">
 
 
 So the password for Natas7 is : 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
